@@ -1,0 +1,10 @@
+# Archivos fuente y auxiliares locales
+*.xlsx
+*.docx
+update_created_time.ps1
+update_dashboard_from_excel.py
+
+# Versiones históricas del dashboard
+Primer Contacto*.html
+Racaba Abril.html
+Seguimiento*.html
