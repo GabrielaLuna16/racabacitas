@@ -8,3 +8,7 @@ update_dashboard_from_excel.py
 Primer Contacto*.html
 Racaba Abril.html
 Seguimiento*.html
+
+.vercel
+.env*
+node_modules/
